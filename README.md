@@ -5,7 +5,5 @@ O projeto foi desenvolvido com arquitetural MVVM, usando os componentes nativos 
 
 Com layouts seguindo boas práticas e diretrizes de design. Nesse contexto, o expert Igor Bagliotti explora alguns componentes nativos e apresenta o Material Design, um dos principais guidelines de identidade visual da plataforma Android.
 
-![Santander page](https://user-images.githubusercontent.com/79775171/123356167-8c63bc80-d53d-11eb-8e4d-079e5d802832.png)
-
 
 
